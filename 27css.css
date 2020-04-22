@@ -57,6 +57,13 @@ h1,h2,h3,h4,h5{
 	float: left;
 
 }
+.c-update{
+	    clear: both;
+		background-image: url("vishal.JPG") ;
+		height: 800px;
+		font-size: 30px;
+		color: #e34e45;
+}
 img{
 	display: block;
 	max-width: 100%;
